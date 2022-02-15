@@ -1,0 +1,63 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+.banner-container{
+    background-color: rgb(165, 165, 165);
+}
+
+.banner-column{
+    background-color: rgb(107, 107, 107);
+}
+
+.navbar-container{
+    top: 0;
+    background-color: rgb(43, 43, 43);
+    position: sticky;
+    z-index: 1;
+}
+
+.about-container{
+    background-color: lightseagreen;
+}
+
+.education-container{
+    background-color: rgb(194, 193, 189);
+}
+
+.bg-edu{
+    color: hotpink;
+    font-weight: bolder;
+}
+
+.pbg-container {
+    background-color: lightyellow;
+    color: hotpink;
+    text-align: center;
+}
+
+.circle{
+    background-color: hotpink;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.project-container{
+    background-color: darkcyan;
+}
+
+.form-container{
+    background-color: lightslategrey;
+}
+
+.inner-form{
+    background-color: #585F73;
+}
+
+.smb{
+    background-color: mediumorchid;
+}
+
+.smb:hover{
+    color: black !important;
+}
